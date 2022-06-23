@@ -1,5 +1,5 @@
 {
-  "name": "react-native-permissions",
+  "name": "react-native-permissions-change-always",
   "version": "3.3.1",
   "license": "MIT",
   "description": "An unified permissions API for React Native on iOS, Android and Windows",
